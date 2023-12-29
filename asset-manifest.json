@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my_pomodoro/static/css/main.fc6fe483.css",
+    "main.js": "/my_pomodoro/static/js/main.cb534f3b.js",
+    "static/js/787.93cfc5bb.chunk.js": "/my_pomodoro/static/js/787.93cfc5bb.chunk.js",
+    "static/media/background.jpg": "/my_pomodoro/static/media/background.9a64adcc96db4f252e1f.jpg",
+    "index.html": "/my_pomodoro/index.html",
+    "main.fc6fe483.css.map": "/my_pomodoro/static/css/main.fc6fe483.css.map",
+    "main.cb534f3b.js.map": "/my_pomodoro/static/js/main.cb534f3b.js.map",
+    "787.93cfc5bb.chunk.js.map": "/my_pomodoro/static/js/787.93cfc5bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc6fe483.css",
+    "static/js/main.cb534f3b.js"
+  ]
+}
