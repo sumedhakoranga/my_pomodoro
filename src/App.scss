@@ -1,0 +1,64 @@
+.App {
+  text-align:center;
+  padding: 1px;
+  background-image: url("background.jpg");
+  min-height: 100vh;
+  .container{
+    margin:10% 20%;
+    align-items: center;
+    border-radius: 10%;
+    height:20%;
+    width:60%;  
+    background-color: rgba(212, 146, 146, 0.31);
+    color: #000;
+    border-radius: 10px;
+    box-shadow: 0px 27px 4px 0px rgba(0,0,0,0.4),
+    0px 7px 13px -3px rgba(0,0,0,0.3),
+    0px -3px 0px 0px rgba(0,0,0,0.2) inset;
+  }
+  #topic{
+    font-weight: bold;
+    font-size: 55px;
+    font-family: 'Times New Roman', Times, serif;
+    color:wheat;
+    padding-top:23px;
+  }
+  #break-label, #session-label{
+    display: inline-block;
+    margin:1px;
+    font-weight: bold;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  #break-decrement, #break-increment, #session-length, #session-decrement, #session-increment, #break-length{
+    padding-bottom: 10px;
+    margin:10px;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: transparent;
+    border-radius: 10%;
+  }
+  #timer-label, #time-left{
+    display: block;
+    margin:10px;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    color: wheat;
+  }
+  #start_stop, #reset{
+    margin:10px;
+    font-size: 30px;
+    background-color: transparent;
+  }
+}
+
+
+
+
+
+
